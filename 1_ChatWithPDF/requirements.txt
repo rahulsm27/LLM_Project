@@ -1,0 +1,13 @@
+langchain
+streamlit
+PyPDF2
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+streamlit-extras
+
+numpy
+pandas
+transformers
+tensorflow
